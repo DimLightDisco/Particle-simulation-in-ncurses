@@ -1,0 +1,2 @@
+- IMPORTANT: This program needs to be run in a terminal that supports colors for it to work.
+- Notes: This entire program is inspired by this awsome video by sparkette: https://www.youtube.com/watch?app=desktop&v=OzgMnjcWzXU the source code for that program can be found  here: https://github.com/flarn2006/MiscPrograms/blob/master/particles.cpp . All credit goes to sparkette, as i mostly took their ideas and adapted it to work in c, with some parts even being an almost carbon copy.
